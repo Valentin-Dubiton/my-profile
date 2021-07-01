@@ -1,0 +1,36 @@
+css:body {
+
+    background-color:rgb(10, 20, 10);
+    color:darkblue;
+    font-family: Courier;
+    
+    }
+    
+    h1 {
+        color: black;
+        font-family: Helvetica;
+        font-size: 60px;
+    }
+    
+    h3{
+        color:black;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    
+    
+     
+    .card-white {
+        background-color:rgb(20, 80, 131);
+        padding: 20px;
+        box-shadow: 0px 0px 30px ;
+        border-radius: 20px;
+        margin: 20px 0px;
+        text-align: center;
+    }
+    .img-circle{
+        border-radius: 20%;
+    }
